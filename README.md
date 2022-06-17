@@ -1,2 +1,5 @@
 # console-racer
-my first c# project
+Das ist meine erste kleine **Konsolen Applikation** mit der ich C# lernen will
+
+# Spielanleitung
+bla bla
