@@ -1,5 +1,6 @@
 # console-racer
-Das ist meine erste kleine **Konsolen Applikation** mit der ich C# lernen will
+This is a nice consolegame to learn c#.
 
-# Spielanleitung
-bla bla
+# insturction
+With **a** and **d** you can move the car **"!"** and schouldn´d touch the wall **#**.
+The menu will show you more information about controlling.
