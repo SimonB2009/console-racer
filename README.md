@@ -1,3 +1,5 @@
+![Name-Logo](name-logo.png)
+
 # console-racer
 This is a nice consolegame to learn c#.
 
